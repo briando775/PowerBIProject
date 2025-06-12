@@ -19,7 +19,7 @@ The dashboards are designed for executives and store managers, helping them unde
 - What is the **overall business health**? (Total Transactions, Revenue, Profit, Return Rate)
 - Which **brands drive the most revenue and profitability**?
 - What are the **top and bottom performing products**, and which have the highest **return rates**?
-- How does each **store perform compared to others of the same type**?
+- How does each **store perform compared to others of the same store type**?
 
 These insights help business leaders:
 - Identify top- and under-performing products/stores
@@ -37,23 +37,26 @@ Provides a high-level overview of 1998 performance, including:
 - Filters: Country and Year
 - Insights on top/bottom-performing stores and brands
 
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![image](https://github.com/user-attachments/assets/e6bcf9ae-7476-479e-907a-419308e52f45)
+
 
 ---
 
 ### 🏬 Store Detail Dashboard
 Focuses on **individual store performance** in December 1998, helping managers assess monthly performance trends.
 
-![Store Detail Dashboard](screenshots/store-detail-dashboard.png)
+![image](https://github.com/user-attachments/assets/80b263e1-07f8-4df6-a432-0b33b5bfe319)
+
 
 ---
 
 ### 🏁 Store Comparison Dashboard
-Compares stores within the same type (e.g., Supermarket vs. Convenience), revealing:
+Compares stores within the same store type, revealing:
 - Best practices from high performers
 - Areas for improvement in low performers
 
-![Store Comparison Dashboard](screenshots/store-comparison-dashboard.png)
+![image](https://github.com/user-attachments/assets/c2502dbf-37a7-4b8e-af8f-befaa486ac8d)
+
 
 ---
 
