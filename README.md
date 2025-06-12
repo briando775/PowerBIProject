@@ -62,8 +62,5 @@ Compares stores within the same store type, revealing:
 
 ## 🛠️ Tools & Technologies Used
 - **Power BI** – Data modelling, DAX, dashboard development
-- **SQL** – Data extraction (if applicable)
-- **Excel** – Pre-cleaning & formatting (optional)
-
 ---
 
